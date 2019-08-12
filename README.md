@@ -7,5 +7,6 @@ Create local http server
 cd into directory above project directory
 <br>
 $ python3 -m http.serve
+<br>
 visit localhost:8000
 
